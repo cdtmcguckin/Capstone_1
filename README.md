@@ -45,7 +45,3 @@ The analysis uses the `sample_sales` database, which includes sales and referenc
 - `README.md` — project overview and territory information
 - `mcguckin_sales_analysis.sql` — main SQL analysis for the assigned territory
 - `mcguckin_sales_exploration.sql` — additional exploratory SQL queries
-
-## Notes
-
-The project will continue to be updated as the SQL analysis is completed, exported results are created, and final presentation materials are added.
