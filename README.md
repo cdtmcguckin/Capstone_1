@@ -1,8 +1,8 @@
 # Capstone 1: EmporiUm Sales Analysis
 
-**Author:** [Caroline D. T. McGuckin]
-**Date:** [November 2026]
-**Tools:** [MySQL / PostgreSQL / etc.], [SQL client, e.g., MySQL Workbench], Microsoft Excel
+Caroline D. T. McGuckin
+November 2026
+MySQL / PostgreSQL / etc.], [SQL client, e.g., MySQL Workbench], Microsoft Excel
 
 ## Project Overview
 
