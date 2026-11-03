@@ -1,35 +1,51 @@
-# EmporiUm Sales Analysis
+# Capstone 1: EmporiUm Sales Analysis
 
-## Project scenario
+## Project Overview
 
-EmporiUm is a growing student bookstore chain selling books, technology products, art supplies, and other merchandise both in-store and online. Sales are organized by region and sales territory. A territory may represent in-store or online sales and can include one or more states.
+This project analyzes sales data for EmporiUm, a growing student bookstore chain that also sells technology products, art supplies, and other merchandise both in-store and online. Sales are tracked by region, state, and individual store or online sales activity.
 
-As a data analyst, I will use the sales database to answer questions from a sales manager about my instructor-assigned sales territory. The analysis will be documented in SQL, and its findings will be shared through a video demo and live presentation.
+The assigned sales territory for this analysis is:
 
-## Project objectives
+- Region: West
+- Territory/State: Colorado
 
-- Query the sales database to answer the assigned manager’s questions about the selected territory.
-- Export the results for one question to CSV and use them to create a Pivot Chart that supports the analysis.
-- Explain the results in a video demo and live presentation.
-- If time permits, investigate the additional questions provided by the team manager in the project appendix.
+## Project Objective
+
+The goal is to answer a sales manager’s questions about performance in the Colorado territory, evaluate revenue trends, compare territory performance to the broader region, and provide a recommendation for where to focus sales attention in the next quarter.
 
 ## Deliverables
 
-1. **Territory analysis SQL script** — the queries used to answer the assigned sales manager questions.
-2. **CSV export** — results for the question selected for the Pivot Chart.
-3. **Pivot Chart** — a visual representation of the exported results, included with the presentation materials.
-4. **Additional analysis SQL script** — a separate script for queries exploring the appendix questions, if completed.
-5. **Video demo and live presentation** — a walkthrough of the analysis and its findings.
+- SQL script for the assigned territory analysis
+- Additional exploratory SQL queries for follow-up analysis
+- CSV export and Excel PivotChart for at least one analyzed question
+- Final presentation summarizing findings and recommendations
 
-## Analysis workflow
+## Data Sources
 
-1. Confirm the assigned region and sales territory, then review the manager’s questions.
-2. Explore the database schema and identify the relevant sales data.
-3. Write and run SQL queries to answer the assigned questions.
-4. Export the selected query results to CSV and build a Pivot Chart.
-5. Summarize the findings and prepare the video demo and live presentation.
-6. If time permits, write a separate SQL script to investigate the appendix questions.
+The analysis uses the `sample_sales` database, which includes sales and reference tables for:
 
-## Repository contents
+- product categories and subcategories
+- products
+- store locations
+- online sales
+- in-store sales
+- management and sales territory information
 
-Project SQL scripts, CSV output, chart, and presentation materials will be added to this repository as they are developed. The assigned territory, database details, and final findings will be documented when available.
+## Key Questions to Answer
+
+- What is total revenue overall for sales in the assigned territory, plus the date range covered by the data?
+- What is the revenue breakdown by year and month for the territory?
+- How does total revenue in the assigned territory compare to the overall region?
+- What is the volume of transactions and average transaction amount by product category for the territory?
+- Which stores or states are performing best within the assigned territory?
+- What is the recommended focus area for the next quarter based on the analysis?
+
+## Repository Contents
+
+- `README.md` — project overview and territory information
+- `mcguckin_sales_analysis.sql` — main SQL analysis for the assigned territory
+- `mcguckin_sales_exploration.sql` — additional exploratory SQL queries
+
+## Notes
+
+The project will continue to be updated as the SQL analysis is completed, exported results are created, and final presentation materials are added.
