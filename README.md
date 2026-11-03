@@ -6,12 +6,12 @@ This project analyzes sales data for EmporiUm, a growing student bookstore chain
 
 The assigned sales territory for this analysis is:
 
-- Region: West
-- Territory/State: Colorado
+- Region: South
+- Territory/State: South Carolina
 
 ## Project Objective
 
-The goal is to answer a sales manager’s questions about performance in the Colorado territory, evaluate revenue trends, compare territory performance to the broader region, and provide a recommendation for where to focus sales attention in the next quarter.
+The goal is to answer a sales manager’s questions about performance in the South Carolina territory, evaluate revenue trends, compare territory performance to the broader region, and provide a recommendation for where to focus sales attention in the next quarter.
 
 ## Deliverables
 
