@@ -1,2 +1,3 @@
 # Capstone_1
-Data Analyst at EmporiUm
+My name is Caroline McGuckin. 
+I am a Data Analyst at EmporiUm.
