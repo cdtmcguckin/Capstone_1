@@ -1,6 +1,6 @@
 # Capstone 1: EmporiUm Sales Data Analysis
-November 2026 - 
 Caroline McGuckin - 
+November 2026 - 
 Data Analyst at EmporiUm - 
 MySQL Workbench / GitHub / Microsoft Excel
 
